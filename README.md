@@ -101,6 +101,6 @@ Inventory-Maintenance-System/
 
 ## Author
 
-**Ramya C**
+**Vidhya Shree M **
 
 B.E. Computer Science and Engineering
